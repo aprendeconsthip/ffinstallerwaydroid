@@ -36,7 +36,6 @@ Extrae el contenido del archivo ZIP descargado. Luego, abre una terminal en esa 
 
 ## `sudo /usr/local/bin/uninstall_ffinstallerwaydroid.sh`
 
-## `sudo ./install.sh`
 
 
 ## 🛠️ Comandos de Instalacion de adb
