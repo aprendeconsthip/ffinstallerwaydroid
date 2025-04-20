@@ -1,6 +1,6 @@
 # 🚀 FFINSTALLERWAYDROID
 
-Instalador rápido y sencillo de **Waydroid**, con soporte optimizado para **Free Fire**.
+Instalador rápido y sencillo de **Waydroid**,Para instalar **Free Fire**.
 Desarrollado en **Python** para usuarios de **Linux** Pero Compilado en un binario.
 
 ---
