@@ -30,31 +30,26 @@ Extrae el contenido del archivo ZIP descargado. Luego, abre una terminal en esa 
 chmod +x install.sh
 sudo ./install.sh
 
-### Comandos de instalación por distribución
 
-| **Distribución**       | **Comando de instalación**                        |
-|------------------------|---------------------------------------------------|
-| **Debian / Ubuntu**    | ```bash                                           |
-|                        | sudo apt install adb                              |
-|                        | ```                                               |
-| **Arch / Manjaro**     | ```bash                                           |
-|                        | sudo pacman -S android-tools                      |
-|                        | ```                                               |
-| **Fedora**             | ```bash                                           |
-|                        | sudo dnf install android-tools                    |
-|                        | ```                                               |
-| **openSUSE**           | ```bash                                           |
-|                        | sudo zypper install android-tools                 |
-|                        | ```                                               |
-| **Void Linux**         | ```bash                                           |
-|                        | sudo xbps-install -S android-tools                |
-|                        | ```                                               |
-| **Solus**              | ```bash                                           |
-|                        | sudo eopkg install android-tools                  |
-|                        | ```                                               |
-| **Gentoo**             | ```bash                                           |
-|                        | emerge --ask dev-util/android-tools               |
-|                        | ```                                               |
-
-
+Distribución	Comando de instalación
+Debian / Ubuntu	```bash
+sudo apt install adb
+```
+Arch / Manjaro	```bash
+sudo pacman -S android-tools
+```
+Fedora	```bash
+sudo dnf install android-tools
+```
+openSUSE	```bash
+sudo zypper install android-tools
+```
+Void Linux	```bash
+sudo xbps-install -S android-tools
+```
+Solus	```bash
+sudo eopkg install android-tools
+```
+Gentoo	```bash
+emerge --ask dev-util/android-tools
 
