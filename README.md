@@ -1,40 +1,31 @@
-🚀 FFINSTALLERWAYDROID
-Instalador rápido y sencillo para Waydroid, con soporte para Free Fire, diseñado especialmente para usuarios de Linux.
+# 🚀 FFINSTALLERWAYDROID  
+**Instalador rápido y sencillo de Waydroid con soporte optimizado para Free Fire. Ideal para usuarios de Linux.**
 
-📦 Requisitos
-Sistema Linux compatible
+---
 
-Acceso a terminal con privilegios sudo
+## 📦 Requisitos
 
-Conexión a internet
+- Sistema operativo **Linux** compatible  
+- Acceso a la terminal con privilegios **sudo**  
+- **Conexión a Internet** activa  
+- **ADB** instalado (consulta la tabla de compatibilidad más abajo)
 
-ADB instalado (ver tabla abajo)
+---
 
-🛠️ Instalación
-1. Descargar el instalador
-Ve a la sección de Releases y descarga el archivo ZIP más reciente.
+## 🛠️ Instalación
 
-2. Descomprimir y dar permisos
-Extrae el contenido del ZIP y otorga permisos de ejecución al instalador:
+### 1. Descargar el instalador  
+Dirígete a la sección de **[Releases](https://github.com/tuusuario/tu-repositorio/releases)** y descarga el archivo **ZIP más reciente**.
 
-bash
-Copiar
-Editar
-chmod +x install.sh
-3. Ejecutar el instalador
-Inicia la instalación con permisos de superusuario:
+---
 
-bash
-Copiar
-Editar
-sudo ./install.sh
-🔧 Instalación de ADB
-ADB (Android Debug Bridge) es necesario para ejecutar correctamente Waydroid. Usa el siguiente comando según tu distribución de Linux:
+### 2. Descomprimir y dar permisos  
+Extrae el contenido del ZIP descargado. Luego, otorga permisos de ejecución al script de instalación:
 
 
 ## 🔧 Instalación de ADB
 
-ADB (Android Debug Bridge) es necesario para ejecutar correctamente Waydroid. Usa el siguiente comando según tu distribución de Linux:
+ADB (Android Debug Bridge) es necesario para ejecutar el proyecto correctamente Usa el siguiente comando según tu distribución de Linux:
 
 | Distribución     | Comando de instalación                          |
 |------------------|-------------------------------------------------|
