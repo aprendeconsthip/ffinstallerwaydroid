@@ -25,8 +25,13 @@ Ve a la sección de **[Releases](https://github.com/tuusuario/tu-repositorio/rel
 Extrae el contenido del archivo ZIP descargado. Luego, abre una terminal en esa carpeta y ejecuta:
 
 ## 🛠️ Comandos de inicio
-chmod +x install.sh
-sudo ./install.sh
+
+> `chmod +x install.sh`
+> 
+> **Paso 2**: Para ejecutar el script:
+> 
+> `sudo ./install.sh`
+
 
 
 ## 🛠️ Comandos de Instalacion de adb
