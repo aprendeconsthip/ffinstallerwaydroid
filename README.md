@@ -1,5 +1,7 @@
 # 🚀 FFINSTALLERWAYDROID  
-**Instalador rápido y sencillo de Waydroid con soporte optimizado para Free Fire. Ideal para usuarios de Linux.**
+
+Instalador rápido y sencillo de **Waydroid**, con soporte optimizado para **Free Fire**.  
+Desarrollado en **Python** para usuarios de **Linux**.
 
 ---
 
@@ -8,19 +10,22 @@
 - Sistema operativo **Linux** compatible  
 - Acceso a la terminal con privilegios **sudo**  
 - **Conexión a Internet** activa  
-- **ADB** instalado (consulta la tabla de compatibilidad más abajo)
+- **ADB** instalado (consulta más abajo cómo verificarlo)
 
 ---
 
 ## 🛠️ Instalación
 
-### 1. Descargar el instalador  
-Dirígete a la sección de **[Releases](https://github.com/tuusuario/tu-repositorio/releases)** y descarga el archivo **ZIP más reciente**.
+### 1. Descargar el Release  
+Ve a la sección de **[Releases](https://github.com/tuusuario/tu-repositorio/releases)** y descarga el archivo **ZIP más reciente** del instalador.
 
 ---
 
 ### 2. Descomprimir y dar permisos  
-Extrae el contenido del ZIP descargado. Luego, otorga permisos de ejecución al script de instalación:
+Extrae el contenido del archivo ZIP descargado. Luego, abre una terminal en esa carpeta y ejecuta:
+
+```bash
+chmod +x install.sh
 
 
 ## 🔧 Instalación de ADB
