@@ -1,16 +1,16 @@
 # 🚀 FFINSTALLERWAYDROID
 
-Instalador rápido y sencillo de **Waydroid**, con soporte optimizado para **Free Fire**.  
+Instalador rápido y sencillo de **Waydroid**, con soporte optimizado para **Free Fire**.
 Desarrollado en **Python** para usuarios de **Linux**.
 
 ---
 
 ## 📦 Requisitos
 
-- Sistema operativo **Linux** compatible  
-- Acceso a la terminal con privilegios **sudo**  
-- **Conexión a Internet** activa  
-- **ADB** instalado (consulta más abajo cómo instalarlo)
+- Sistema operativo **Linux** compatible.
+- Acceso a la terminal con privilegios **sudo**.
+- **Conexión a Internet** activa.
+- **ADB** instalado (consulta más abajo cómo instalarlo).
 
 ---
 
@@ -28,23 +28,6 @@ Extrae el contenido del archivo ZIP descargado. Luego, abre una terminal en esa 
 
 ```bash
 chmod +x install.sh
-
-```bash
 sudo ./install.sh
-
-
-
-
-### Comandos de instalación por distribución
-
-| **Distribución**       | **Comando de instalación**                        |
-|------------------------|---------------------------------------------------|
-| **Debian / Ubuntu**     | `sudo apt install adb`                            |
-| **Arch / Manjaro**      | `sudo pacman -S android-tools`                    |
-| **Fedora**              | `sudo dnf install android-tools`                  |
-| **openSUSE**            | `sudo zypper install android-tools`               |
-| **Void Linux**          | `sudo xbps-install -S android-tools`              |
-| **Solus**               | `sudo eopkg install android-tools`                |
-| **Gentoo**              | `emerge --ask dev-util/android-tools`             |
 
 
