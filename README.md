@@ -26,7 +26,7 @@ Extrae el contenido del archivo ZIP descargado. Luego, abre una terminal en esa 
 
 ## 🛠️ Comandos de inicio
 
-## chmod +x install.sh
+## `chmod +x install.sh`
 
 ## `sudo ./install.sh`
 
