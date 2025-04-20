@@ -1,7 +1,7 @@
 # 🚀 FFINSTALLERWAYDROID
 
 Instalador rápido y sencillo de **Waydroid**, con soporte optimizado para **Free Fire**.
-Desarrollado en **Python** para usuarios de **Linux**.
+Desarrollado en **Python** para usuarios de **Linux** Pero Compilado en un binario.
 
 ---
 
@@ -18,7 +18,7 @@ Desarrollado en **Python** para usuarios de **Linux**.
 
 ### 1. Descargar el Release
 
-Ve a la sección de **[Releases](https://github.com/tuusuario/tu-repositorio/releases)** y descarga el archivo **ZIP más reciente** del instalador.
+Ve a la sección de **[Releases](https://github.com/aprendeconsthip/ffinstallerwaydroid/releases)** y descarga el archivo **ZIP más reciente** del instalador.
 
 ### 2. Descomprimir y dar permisos
 
