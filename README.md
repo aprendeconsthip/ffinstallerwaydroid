@@ -31,7 +31,7 @@ chmod +x install.sh
 sudo ./install.sh
 
 
-Distribución	Comando de instalación
+
 Debian / Ubuntu	```bash
 sudo apt install adb
 ```
