@@ -41,7 +41,7 @@ Extrae el contenido del archivo ZIP descargado. Luego, abre una terminal en esa 
 ## 🛠️ Comandos de Instalacion de adb
 | Distribución    | Comando de Instalación                          |
 |-----------------|-------------------------------------------------|
-| Debian / Ubuntu | `sudo apt install adb`                         |
+| Debian / Ubuntu | `sudo apt install android-tools-adb`                         |
 | Arch / Manjaro  | `sudo pacman -S android-tools`                 |
 | Fedora          | `sudo dnf install android-tools`               |
 | openSUSE        | `sudo zypper install android-tools`            |
